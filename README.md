@@ -5,9 +5,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🔭 I found programming as my **Passion.**
+- 🌱 I’m a technophile who loves to explore **New Technologies.**
 
-- 📫 How to reach me **ashiqul.eee@gmail.com**
+- 📫 Reach me **ashiqul.eee@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
